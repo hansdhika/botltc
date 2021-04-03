@@ -5,8 +5,8 @@ $ pkg update && pkg upgrade<br>
 $ pkg install python git unzip<br>
 $ git clone  https://github.com/hansdhika/botltc<br>
 $ cd botltc<br>
-$ unzip bot.zip
-$ cd bot
+$ unzip bot.zip<br>
+$ cd bot<br>
 $ pip3 install -r requirements.txt<br>
 $ python3 main.py phone_number<br>
 
